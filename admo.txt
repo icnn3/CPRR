@@ -1,0 +1,5 @@
+Python libs needed
+pyyaml
+requests
+requests_ntlm
+pwinput
